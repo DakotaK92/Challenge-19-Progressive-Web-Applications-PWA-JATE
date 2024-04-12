@@ -31,26 +31,22 @@ const initdb = async () =>
     const result = await request;
     console.log('Data saved to database', result);
   };
-
+  
   export const getDb = async () => {
     console.log('GET from the database');
-
+  
     // Create a connection to the database
     const contactDb = await openDB('jate', 1);
-
     // Create a transation and what the database and data privileges
     const tx = contactDb.transaction('jate', 'readonly');
-
     // Open up desired object store
     const store = tx.objectStore('jate');
-
     // Use getAll to get all data in the database
     const request = store.getAll();
-
     // Get confirmation of the request
     const result = await request;
     console.log('result.value', result);
     return result?.value;
   };
 
-initdb();
+  initdb();
