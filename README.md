@@ -1,14 +1,14 @@
 # Challenge-19-Progressive-Web-Applications-PWA-Text-Editor
 ## Summary
-This application is a note editor called "JATE"! It's pupose is to take notes with or without an internet connection. With the help of local storage and the service workers, information can be entered and remembered when internet is available to update. This application is also running on Render.
+This application is a note editor called "JATE"! It's pupose is to take notes with or without an internet connection. With the help of local storage and the service workers, information can be entered and remembered when internet is available. This application is also running on Render.
 
 ## Table of Content
 + [Installation](#installation)
 + [Usage](#usage)
 
 ## Installation
-+ To make this application run on your local machine. From the terimal in the root of the folder `npm i`/`npm install` all sub folders from the `package.json`.
-+ After everything is installed, in the clint/webpack, run `npm run build`. This will build the "dist" folder with all "HTML", manifest and service workers for the application.
++ To make this application run on your local machine: From the intergrated terimal, in the root of the folder `npm i`/`npm install` all the sub folders from the `package.json`.
++ After everything is installed: Inside the clint/webpack, run `npm run build`. This will build the "dist" folder with all HTML, manifest and service workers for the application.
 + And finally, back in the root of the folder run `npm run start`, this will start the application!
   
 ## Usage
