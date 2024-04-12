@@ -1,6 +1,6 @@
 # Challenge-19-Progressive-Web-Applications-PWA-Text-Editor
 ## Summary
-This application is a note editor called "JATE"! It's pupose is to take notes with or without an internet connection. With the help of local storage and the service workers, information can be entered and remembered when internet is available to update. This application is also running on Render, link at the bottom of the page.
+This application is a note editor called "JATE"! It's pupose is to take notes with or without an internet connection. With the help of local storage and the service workers, information can be entered and remembered when internet is available to update. This application is also running on Render.
 
 ## Table of Content
 + [Installation](#installation)
@@ -18,7 +18,7 @@ When the application is up and running you'll see this:
 Inside the local storage you can see "Hello World" is saved:
 ![JATE - Hello World!](https://github.com/DakotaK92/Challenge-19-Progressive-Web-Applications-PWA-Text-Editor/assets/46942706/8ad59ab3-b696-4e5e-ae5e-5a520301e072)
 
-You can see the "service worker is up and running:
+You can see the service worker is up and running:
 ![JATE - Service Worker](https://github.com/DakotaK92/Challenge-19-Progressive-Web-Applications-PWA-Text-Editor/assets/46942706/71f1fffa-c953-499a-9864-3aa1a844c0cd)
 
 You can also see we have a manifold going as well:
