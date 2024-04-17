@@ -32,5 +32,5 @@ You can also install the "JATE" logo:
 ![JATE - Install](https://github.com/DakotaK92/Challenge-19-Progressive-Web-Applications-PWA-Text-Editor/assets/46942706/c4b80692-63a2-4f9f-808c-872cc543a46d)
 ![JATE - Icon](https://github.com/DakotaK92/Challenge-19-Progressive-Web-Applications-PWA-Text-Editor/assets/46942706/09ca10c8-3fda-445f-b6b4-db6d9153265d)
 
-## Deployment on Render
+## Deployment
 https://challenge-19-progressive-web-el98.onrender.com
